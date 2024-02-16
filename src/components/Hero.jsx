@@ -17,7 +17,7 @@ function Hero() {
         </button>
       </nav>
       <h1 className='head_text'>
-         Summerize Atricles <br className='max-md:hiden'/>
+         Summarize Articles <br className='max-md:hiden'/>
          <span className='orange_gradient'>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>Simplify your reading with Summarize,
